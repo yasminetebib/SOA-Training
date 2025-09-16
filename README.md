@@ -1,4 +1,4 @@
-# 📘 SOA Module - ESPRIT School of Engineering
+# 📘 Service-Oriented Architecture- Training
 
 ## 🎯 Learning Objectives
 This **20-hour module** aims to enable students to:
