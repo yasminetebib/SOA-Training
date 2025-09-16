@@ -1,69 +1,67 @@
-# 📘 Module SOA - ESPRIT school of engeneering
+# 📘 SOA Module - ESPRIT School of Engineering
 
-## 🎯 Objectifs Pédagogiques
-Ce module de **20 heures** vise à permettre aux étudiants de :
+## 🎯 Learning Objectives
+This **20-hour module** aims to enable students to:
 
-- Maîtriser l'**architecture orientée services (SOA)**.
-- Comprendre la différence entre **SOAP et REST**.
-- Apprendre les concepts fondamentaux de **SOAP**.
-- Mettre en place des **web services RESTful** en utilisant **JAX-RS**.
-- Développer des applications en **Java** avec **Maven**.
-- Comprendre **JWT (JSON Web Token)** et sécuriser une application avec JWT.
-- Optimiser les performances d'une application REST en utilisant **GraphQL**.
-- Implémenter un **projet Java** en exploitant **GraphQL**.
+- Master **Service-Oriented Architecture (SOA)**.
+- Understand the difference between **SOAP and REST**.
+- Learn the fundamental concepts of **SOAP**.
+- Implement **RESTful web services** using **JAX-RS**.
+- Develop applications in **Java** with **Maven**.
+- Understand **JWT (JSON Web Token)** and secure an application with JWT.
+- Optimize the performance of a REST application using **GraphQL**.
+- Implement a **Java project** leveraging **GraphQL**.
 
-## 📅 Contenu du Module (21 heures)
+## 📅 Module Content (21 hours)
 
-### 🏗️ Partie 1 : Introduction au SOA (3h)
-- Définition et principes de l'**architecture orientée services**.
-- Différences entre **monolithes** et **microservices**.
-- Comparaison **SOAP vs REST**.
+### 🏗️ Part 1: Introduction to SOA (3h)
+- Definition and principles of **Service-Oriented Architecture**.
+- Differences between **monoliths** and **microservices**.
+- Comparison of **SOAP vs REST**.
 
-### 🔗 Partie 2 : Web Services avec SOAP (3h)
-- Structure d'un message **SOAP**.
-- Développement d'un **Web Service SOAP** en Java.
-- Manipulation avec **WSDL** et **UDDI**.
+### 🔗 Part 2: Web Services with SOAP (3h)
+- Structure of a **SOAP message**.
+- Development of a **SOAP Web Service** in Java.
+- Manipulation with **WSDL** and **UDDI**.
 
-### 🌐 Partie 3 : Web Services RESTful avec JAX-RS (6h)
-- Introduction à **JAX-RS** et aux **annotations**.
-- Implémentation d'un **Web Service REST** en Java.
-- Gestion des méthodes **GET, POST, PUT, DELETE**.
-- Tests avec **Postman**.
+### 🌐 Part 3: RESTful Web Services with JAX-RS (6h)
+- Introduction to **JAX-RS** and its **annotations**.
+- Implementation of a **REST Web Service** in Java.
+- Handling **GET, POST, PUT, DELETE** methods.
+- Testing with **Postman**.
 
-### 🔒 Partie 4 : Sécurisation avec JWT (3h)
-- Présentation de **JSON Web Token (JWT)**.
-- Implémentation de l'**authentification et autorisation** avec JWT.
-- Intégration de **JWT** dans un projet Java.
+### 🔒 Part 4: Security with JWT (3h)
+- Introduction to **JSON Web Token (JWT)**.
+- Implementation of **authentication and authorization** with JWT.
+- Integration of **JWT** in a Java project.
 
-### 🚀 Partie 5 : Optimisation avec GraphQL (6h)
-- Introduction à **GraphQL** et différences avec REST.
-- Développement d'une **API GraphQL** en Java.
-- Optimisation des performances avec **GraphQL Queries & Mutations**.
-- Mise en place d'un **projet Java** exploitant **GraphQL**.
+### 🚀 Part 5: Optimization with GraphQL (6h)
+- Introduction to **GraphQL** and its differences from REST.
+- Development of a **GraphQL API** in Java.
+- Performance optimization with **GraphQL Queries & Mutations**.
+- Building a **Java project** using **GraphQL**.
 
-## 🛠️ Technologies et Outils Utilisés
-- **Langage** : Java  
-- **Frameworks** : JAX-RS, GraphQL Java  
-- **Gestion de projet** : Maven  
-- **Sécurité** : JWT  
-- **Test et API Client** : Postman  
+## 🛠️ Technologies and Tools Used
+- **Language**: Java  
+- **Frameworks**: JAX-RS, GraphQL Java  
+- **Project Management**: Maven  
+- **Security**: JWT  
+- **Testing & API Client**: Postman  
 
-## 📌 Prérequis
-- Connaissances de base en **Java**.
-- Familiarité avec les **API Web** et HTTP.
+## 📌 Prerequisites
+- Basic knowledge of **Java**.  
+- Familiarity with **Web APIs** and HTTP.  
 
-## 🎓 Évaluation
-- Mini-projets et TP pratiques.
-- Un projet final intégrant **REST, JWT et GraphQL**.
+## 🎓 Evaluation
+- Mini-projects and practical labs.  
+- A final project integrating **REST, JWT, and GraphQL**.  
 
-## 📢 Ressources Complémentaires
-- [Documentation officielle JAX-RS](https://jakarta.ee/specifications/restful-ws/)
-- [Guide GraphQL Java](https://www.graphql-java.com/)
-- [JWT Introduction](https://jwt.io/introduction/)
-
+## 📢 Additional Resources
+- [Official JAX-RS Documentation](https://jakarta.ee/specifications/restful-ws/)  
+- [GraphQL Java Guide](https://www.graphql-java.com/)  
+- [JWT Introduction](https://jwt.io/introduction/)  
+## 👨‍🏫 Instructor: [Dr. Badia Bouhdid](https://www.linkedin.com/in/badiabouhdid/)
 ## 🎓 Acknowledgment
-This project is part of the academic training provided by **ESPRIT School of Engineering**, aiming to equip students with industry-relevant skills in modern software development.
-## 👨‍🏫 Contact
-Connect with me on LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/badiabouhdid/)
+This project is part of the academic training provided by **ESPRIT School of Engineering**, aiming to equip students with industry-relevant skills in modern software development.  
 
----  
+
