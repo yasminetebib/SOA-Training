@@ -1,0 +1,1 @@
+function confirmDelete(){ return confirm('Confirmer la suppression ?'); }
