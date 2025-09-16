@@ -60,7 +60,8 @@ This **20-hour module** aims to enable students to:
 - [Official JAX-RS Documentation](https://jakarta.ee/specifications/restful-ws/)  
 - [GraphQL Java Guide](https://www.graphql-java.com/)  
 - [JWT Introduction](https://jwt.io/introduction/)  
-## 👨‍🏫 Instructor: [Dr. Badia Bouhdid](https://www.linkedin.com/in/badiabouhdid/)
+## 👨‍🏫 Instructor: 
+[Dr. Badia Bouhdid](https://www.linkedin.com/in/badiabouhdid/)
 ## 🎓 Acknowledgment
 This project is part of the academic training provided by **ESPRIT School of Engineering**, aiming to equip students with industry-relevant skills in modern software development.  
 
