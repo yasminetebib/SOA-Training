@@ -1,7 +1,7 @@
 # 📘 Service-Oriented Architecture- Training
 
 ## 🎯 Learning Objectives
-This **20-hour module** aims to enable students to:
+This **21-hours Training Session** aims to enable students to:
 
 - Master **Service-Oriented Architecture (SOA)**.
 - Understand the difference between **SOAP and REST**.
@@ -12,7 +12,7 @@ This **20-hour module** aims to enable students to:
 - Optimize the performance of a REST application using **GraphQL**.
 - Implement a **Java project** leveraging **GraphQL**.
 
-## 📅 Module Content (21 hours)
+## 📅 Sessions Content (21 hours)
 
 ### 🏗️ Part 1: Introduction to SOA (3h)
 - Definition and principles of **Service-Oriented Architecture**.
@@ -43,7 +43,7 @@ This **20-hour module** aims to enable students to:
 
 ## 🛠️ Technologies and Tools Used
 - **Language**: Java  
-- **Frameworks**: JAX-RS, GraphQL Java  
+- **Tools**: JAX-RS, GraphQL Java  
 - **Project Management**: Maven  
 - **Security**: JWT  
 - **Testing & API Client**: Postman  
@@ -51,10 +51,6 @@ This **20-hour module** aims to enable students to:
 ## 📌 Prerequisites
 - Basic knowledge of **Java**.  
 - Familiarity with **Web APIs** and HTTP.  
-
-## 🎓 Evaluation
-- Mini-projects and practical labs.  
-- A final project integrating **REST, JWT, and GraphQL**.  
 
 ## 📢 Additional Resources
 - [Official JAX-RS Documentation](https://jakarta.ee/specifications/restful-ws/)  
