@@ -151,4 +151,4 @@ Once your REST API is working, we will later explore:
 - **[Badia Bouhdid](https://www.linkedin.com/in/badiabouhdid)**
 ---
 
-🏫 This training is delivered as part of the **Client-Side Application 1** module at [Esprit School of Engineering](https://www.esprit.tn)
+🏫 This training is delivered as part of the **SOA** module at [Esprit School of Engineering](https://www.esprit.tn)
