@@ -23,7 +23,7 @@ public class ModuleRessources {
                 .build();
     }
 
-    // 2. Ajout d’un module
+    //Ajout
     @Path("/ajout")
     @POST
     @Consumes(MediaType.APPLICATION_JSON)
@@ -44,7 +44,7 @@ public class ModuleRessources {
         if(helper.deleteModule(matricule)){
             return Response.status(200).entity("Module supprimé avec succès 🗑️").build();
         }
-        return Response.status(404).entity("Module non trouvé ❌").build();
+        return Response.status(404).entity("Module non trouvé ").build();
     }
 
 
